@@ -1,5 +1,5 @@
 {
-  "name": "develable-status-backend",
+  "name": "@develable/develable-status-backend",
   "version": "1.0.0",
   "description": "backend",
   "main": "dist/app.js",
